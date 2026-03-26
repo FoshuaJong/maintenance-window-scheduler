@@ -1,0 +1,10 @@
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.claude/
+*.pkl
+CLAUDE.md
+data/*_backup.xlsx
+data/outage_requests.xlsx

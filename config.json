@@ -1,0 +1,77 @@
+{
+  "asset_requests_filepath": "data/asset_requests.xlsx",
+  "historical_durations_filepath": "data/historical_durations.xlsx",
+  "relational_dependencies_filepath": "data/relational_dependencies.xlsx",
+  "aop_year": 2026,
+  "data_directory": "data",
+  "public_holidays": {
+    "_note": "Assets will not be scheduled for public holidays. This does not include regional holidays. Format: YYYY-MM-DD",
+    "_reference": "https://publicholiday.co.nz/nz-public-holidays-2027.html",
+    "holidays": [
+      {
+        "date": "2026-07-10",
+        "name": "Matariki"
+      },
+      {
+        "date": "2026-10-26", 
+        "name": "Labour Day"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Christmas"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Boxing Day"
+      },
+      {
+        "date": "2026-12-28",
+        "name": "Boxing Day (observed)"
+      },
+      {
+        "date": "2027-01-01",
+        "name": "New Year"
+      },
+      {
+        "date": "2027-01-02",
+        "name": "Day after New Year"
+      },
+      {
+        "date": "2027-01-04",
+        "name": "Day after New Year (observed)"
+      },
+      {
+        "date": "2027-02-06",
+        "name": "Waitangi Day"
+      },
+      {
+        "date": "2027-02-08",
+        "name": "Waitangi Day (observed)"
+      },
+      {
+        "date": "2027-03-26",
+        "name": "Good Friday"
+      },
+      {
+        "date": "2027-03-29",
+        "name": "Easter Monday"
+      },
+      {
+        "date": "2027-04-25",
+        "name": "ANZAC Day"
+      },
+      {
+        "date": "2027-04-26",
+        "name": "ANZAC Day (observed)"
+      },
+      {
+        "date": "2026-06-07",
+        "name": "King's Birthday"
+      },
+      {
+        "date": "2026-06-25",
+        "name": "Matariki"
+      }
+    ]
+  }
+}
