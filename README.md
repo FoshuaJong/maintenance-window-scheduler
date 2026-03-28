@@ -2,8 +2,6 @@
 
 Constrained scheduling optimiser for network maintenance planning.
 
-AI assistance was used to refactor code for readability, generate documentation, and sanitize data for anonymity.
-
 ## Problem
 
 A planning cycle produces a list of assets requiring maintenance windows. The planner must co-schedule assets with shared dependencies (bundles) into the same window, prohibit concurrent execution of conflicting asset pairs, distribute work into historically preferred months, and balance workload across months and within each season.
@@ -130,3 +128,5 @@ All written to `outputs/` at runtime.
 
 - Duration uses historical median — does not reflect actual work scope for the current cycle
 - Public holidays are manually maintained in `config.json`
+
+AI assistance was used to refactor code for readability, generate documentation, and sanitize data for anonymity.
