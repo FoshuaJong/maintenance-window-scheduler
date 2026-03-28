@@ -129,4 +129,4 @@ All written to `outputs/` at runtime.
 - Duration uses historical median — does not reflect actual work scope for the current cycle
 - Public holidays are manually maintained in `config.json`
 
-AI assistance was used to refactor code for readability, generate documentation, and sanitize data for anonymity.
+AI assistance was used to generate documentation and refactor code for readability.
